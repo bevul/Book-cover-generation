@@ -20,7 +20,7 @@ For the implementation of the project the model of the generative-adversarial ne
 To use neural networks for generating raster and vector image of a book cover, to apply modules for adding book cover text elements and to demonstrate the result by using augmented reality technology.
 
 ## Network configuration
-In order to achieve raster and vector images generation there was manual configuration of networks. After numerous experiments it can be concluded that with an increase in weight decay, the image becomes more detailed, but "loses" to lower values in the speed of formation of the finished image. 
+In order to achieve raster and vector images generation there was manual configuration of chosen model. After numerous experiments it can be concluded that with an increase in weight decay, the image becomes more detailed, but "loses" to lower values in the speed of formation of the finished image. 
 Model produces raster type images when weight decay equals to 1.0е-6, meanwhile when weight decay equals to 0 or 1.0е-8 vector type ones are being achieved.
 
 <img src="https://user-images.githubusercontent.com/92825775/192689837-0f0b77fe-a3a6-4506-b6fe-ade6fdbb5ed1.png" width="350">
