@@ -14,7 +14,7 @@ A book cover examples, which have been achieved by using modified, based on sugg
 <img src="https://user-images.githubusercontent.com/92825775/192692964-a5cffe46-9aa3-4684-af01-308425d794eb.png" width="400">
 
 ## Used model
-For the implementation of the project, the model of the generative-adversarial network VQGAN + CLIP was chosen. Used model developed and published by Katherine Crowson.
+For the implementation of the project the model of the generative-adversarial network VQGAN + CLIP have been chosen. Used model is developed and published by Katherine Crowson.
 
 ## The main core of suggested method 
 To use neural networks for generating raster and vector image of a book cover, to apply modules for adding its text elements and to demonstrate the result using augmented reality technology.
