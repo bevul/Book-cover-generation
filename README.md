@@ -7,7 +7,7 @@ By using suggested way of cover design one can save money and make a process muc
 
 Training set: WikiArt
 
-A book cover examples, which have been achieved by using modified, based on suggested method, GAN model. 
+A book cover examples, which have been achieved by using modified, based on developed method, GAN model. 
 
 <img src="https://user-images.githubusercontent.com/92825775/192692494-07d1910e-e5e7-457d-bbbb-f10400d7f16a.png" width="400">
 
