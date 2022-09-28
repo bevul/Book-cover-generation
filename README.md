@@ -47,9 +47,7 @@ As well as database model.
 
 <img src="https://user-images.githubusercontent.com/92825775/192690649-85a9d25a-8a8a-4924-8acb-d97efe17c180.png" width="500">
 
-There has been made UI design using Figma. 
-
-Couple of page examples.
+Moreover there has been made UI design using Figma. 
 
 <img src="https://user-images.githubusercontent.com/92825775/192692105-07486c75-31d3-4747-a8a5-b1c28f3e4c83.png" width="500">
 <img src="https://user-images.githubusercontent.com/92825775/192692170-a1dd1f62-c414-4049-87d8-5c718a65cd51.png" width="500">
