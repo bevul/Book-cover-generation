@@ -17,7 +17,7 @@ A book cover examples, which have been achieved by using modified, based on sugg
 For the implementation of the project the model of the generative-adversarial network VQGAN + CLIP have been chosen. Used model is developed and published by Katherine Crowson.
 
 ## The main core of suggested method 
-To use neural networks for generating raster and vector image of a book cover, to apply modules for adding its text elements and to demonstrate the result using augmented reality technology.
+To use neural networks for generating raster and vector image of a book cover, to apply modules for adding book cover text elements and to demonstrate the result by using augmented reality technology.
 
 ## Network configuration
 In order to achieve raster and vector images generation there was manual configuration of networks. After numerous experiments it can be concluded that with an increase in weight decay, the image becomes more detailed, but "loses" to lower values in the speed of formation of the finished image. 
